@@ -1,5 +1,5 @@
 # overlay-restorer
-Check if there is an overlay on you webpage 
+Check if there is an overlay on your webpage 
 
 # Usage
 Include the css (if not already present)
